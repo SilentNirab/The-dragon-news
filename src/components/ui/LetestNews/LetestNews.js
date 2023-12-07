@@ -8,8 +8,6 @@ import {
     Typography,
   } from "@mui/material";
   
-  import topNews from "@/assets/top-news.png";
-  import topNews2 from "@/assets/top-news2.png";
   import Image from "next/image";
   import { getAllNews } from "@/utils/getAllNews";
   
